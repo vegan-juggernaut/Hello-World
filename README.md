@@ -1,2 +1,3 @@
 # Hello-World
-First GitHub exercise
+
+Hello Humans. Just your local neighborhood vegan activist.
